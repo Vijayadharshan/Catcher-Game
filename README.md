@@ -16,6 +16,10 @@ The game can only run if Python and Pygame is installed
 #### Python and Pygame install
 Download the latest version of Python from the link [PYTHON DOWNLOAD](https://www.python.org/downloads/) and Pygame can be installed by running the command `` pip install pygame ``
 
+## How to Play?
+
+The basic concept of this game is to catch the falling papers with the bin without losing them. Losing the game means Game Over. The game will restart after two seconds of the game over screen
+
 ## Attribution
 
 ### Icon, Bin and Paper from...
