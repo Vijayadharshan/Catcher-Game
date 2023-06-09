@@ -25,7 +25,6 @@ Python can be installed in the given link [PYTHON DOWNLOAD](https://code.visuals
 <a href="https://www.freepik.com/free-vector/blank-classroom-scene-with-empty-chalkboard_14801667.htm#query=classroom%20game%20background&position=6&from_view=search&track=ais">Image by brgfx</a> on Freepik
 
 ### Game Over Image from...
-
 Image by <a href="https://www.freepik.com/free-vector/glitch-game-background_4047735.htm#query=game%20over%20background&position=12&from_view=search&track=ais">Freepik</a>
 
 ### Audio from...
