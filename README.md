@@ -14,7 +14,7 @@ Any IDE or Text Editor can be used as this doesn't affects the usage
 The game can only run if Python and Pygame is installed
 
 #### Python and Pygame install
-Python can be installed in the given link [PYTHON DOWNLOAD](https://code.visualstudio.com/) and Pygame can be installed by running the command `` pip install pygame ``
+Download the latest version of Python from the link [PYTHON DOWNLOAD](https://www.python.org/downloads/) and Pygame can be installed by running the command `` pip install pygame ``
 
 ## Attribution
 
