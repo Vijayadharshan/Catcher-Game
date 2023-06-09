@@ -30,3 +30,6 @@ Image by <a href="https://www.freepik.com/free-vector/glitch-game-background_404
 
 ### Audio from...
 [Pixabay](pixabay.com)
+
+## Font from..
+[Google Fonts](https://fonts.google.com/)
