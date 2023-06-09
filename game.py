@@ -26,6 +26,7 @@ playerX_change = 0
 paperImg = pygame.image.load('data/images/paper.png')
 paperX = random.randint(50, 750)
 paperY = random.randint(0, 15)
+paperY_y = random.randint(0, 15)
 num_of_enemies = 6
 Y_paper_velocity = 2
 gravity = 0.05
@@ -77,7 +78,7 @@ while running:
 
     Y_paper_velocity += gravity
     paperY += Y_paper_velocity
-    if paperY > 800:
+    if paperY > 608:
         paperX = random.randint(50, 750)
         paperY = random.randint(0, 15)
         Y_paper_velocity = 2
@@ -95,8 +96,9 @@ while running:
     show_score(score_x, score_y)
 
     
-    if paperY > 700:
-        mixer.music.load('data/music/over.wav')
+    if paperY > 600:
+        music = pygame.mixer.Sound('data/music/over.wav')
+        music.play()
         mixer.music.play()
         game_over = pygame.image.load('data/images/game_over.jpg')
         screen.blit(game_over, (0, 200))
